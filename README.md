@@ -8,8 +8,8 @@ Coming soon
 
 Other APIs
 --------
-[Moderated UGC Feeds](https://github.com/mozes/api-docs/blob/master/sections/feeds.md#moderated-feed-apis)
-[Web Hooks](https://github.com/mozes/api-docs/blob/master/sections/webhooks.md#web-hooks)
+* [Moderated UGC Feeds](https://github.com/mozes/api-docs/blob/master/sections/feeds.md#moderated-feed-apis)
+* [Web Hooks](https://github.com/mozes/api-docs/blob/master/sections/webhooks.md#web-hooks)
 
 ## Have questions or suggestions to improve the API?
 

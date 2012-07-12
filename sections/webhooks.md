@@ -35,7 +35,7 @@ Commonly used `item_key` values are `email` and `dob`. In some cases, customized
         "item_value": "user@domain.net",
         "campaign_id": "123456",
         "campaign_run_id": "62823",
-        "channel_id": "236495"
+        "channel_id": "236495",
         "account_id": "181198",
         "phone": "6305551073"
     }
@@ -55,7 +55,7 @@ Commonly used `item_key` values are `email` and `dob`. In some cases, customized
         "item_value": "20120528",
         "campaign_id": "123456",
         "campaign_run_id": "62823",
-        "channel_id": "236495"
+        "channel_id": "236495",
         "account_id": "181198",
         "phone": "6305551073"
     }
